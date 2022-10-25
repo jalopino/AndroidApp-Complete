@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HYPE LIFE</string>
+    <string name="rl">Ralph Lauren</string>
+    <string name="uq">Uniqlo</string>
+    <string name="tnf">The North Face</string>
+    <string name="s">Supreme</string>
+    <string name="ow">Off-White</string>
+    <string name="n">Nike</string>
+    <string name="a">Adidas</string>
+    <string name="nb">New Balance</string>
+    <string name="bckbtn">Back Button</string>
+
+    <!--Information-->
+    <string name="uniqlo">UNIQLO is a clothing apparel company, which was originally founded in Yamaguchi, Japan in 1949 as a textiles manufacturer. Now it is a global brand with over 1000 stores around the world. Redefining clothing, with a focus on quality and textiles which has been unwavered since the company’s origins in 1949.</string>
+    <string name="thenorthface">The North Face is an American outdoor recreation products company. The North Face produces outdoor clothing, footwear, and related equipment. Founded in 1968 to supply climbers, the company\'s logo draws inspiration from Half Dome, in Yosemite National Park. By the late 1990s, the label had expanded beyond outdoor enthusiasts by focusing on street couture and since the 2000s it is regarded as a streetwear style symbol label. In 2000, it was bought by VF Corporation.</string>
+    <string name="ralphlauren">Ralph Lauren Corporation is an American publicly traded fashion company that was founded in 1967 by American fashion designer Ralph Lauren. The company is headquartered in New York City, and it produces products ranging from the mid-range to the luxury segments.</string>
+    <string name="supreme">Supreme is an American clothing and skateboarding lifestyle brand established in New York City in April 1994. The brand is targeted at the skateboarding and hip hop cultures, and youth culture in general. The brand produces clothes and accessories and also manufactures skateboards.</string>
+    <string name="offwhite">The company was first founded as "PYREX VISION" by Virgil Abloh in the Italian city of Milan in 2012. Abloh then rebranded the company as Off-White in 2013, which he described as "the grey area between black and white as the color off-white" to the fashion world. It has shown collections at Paris Fashion Week shows, and is sold in retail stores in Hong Kong, Tokyo, Milan, London, United Kingdom and New York.</string>
+    <string name="nike">We champion continual progress for athletes and sport by taking action to help athletes reach their potential. Every job at NIKE, Inc. is grounded in a team-first mindset, cultivating a culture of innovation and a shared purpose to leave an enduring impact.</string>
+    <string name="newbalance">New Balance Athletics, Inc. (NB), best known as simply New Balance, is one of the world\'s major sports footwear and apparel manufacturers. Based in Boston, Massachusetts, the multinational corporation was founded in 1906 as the New Balance Arch Support Company.New Balance maintains a manufacturing presence in the United States, as well as in the United Kingdom for the European market, where they produce some of their popular models.</string>
+    <string name="adidas">Adidas AG (adidas) designs, manufactures and markets athletic and sports lifestyle products. The company’s product portfolio includes footwear, apparel and accessories such as bags, sun glasses, fitness equipment, and balls. The company distributes and sells products through own-branded stores, retail stores, wholesale stores, sporting goods chains, buying groups, department stores, lifestyle retail chains, e-tailers, and franchise stores. It also markets products through e-commerce platform and mobile shopping apps. The company offers its products under the adidas brand. It also undertakes various product franchises.</string>
+</resources>
